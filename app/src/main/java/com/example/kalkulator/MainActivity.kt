@@ -23,5 +23,10 @@ class MainActivity : AppCompatActivity() {
         var button9 = findViewById<Button>(R.id.button9)
         var button0 = findViewById<Button>(R.id.button0)
         var buttonC = findViewById<Button>(R.id.buttonC)
+        var buttoneql = findViewById<Button>(R.id.buttoneql)
+        var buttondiv = findViewById<Button>(R.id.buttondiv)
+        var buttonsub = findViewById<Button>(R.id.buttonsub)
+        var buttonadd = findViewById<Button>(R.id.buttonadd)
+        var buttonmul = findViewById<Button>(R.id.buttonmul)
     }
 }
