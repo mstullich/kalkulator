@@ -12,17 +12,16 @@ class MainActivity : AppCompatActivity() {
 
 
 
-
-        var button1 = <findViewById>(R.id.button1)
-        var button2 = <findViewById>(R.id.button2)
-        var button3 = <findViewById>(R.id.button3)
-        var button4 = <findViewById>(R.id.button4)
-        var button5 = <findViewById>(R.id.button5)
-        var button6 = <findViewById>(R.id.button6)
-        var button7 = <findViewById>(R.id.button7)
-        var button8 = <findViewById>(R.id.button8)
-        var button9 = <findViewById>(R.id.button9)
-        var button0 = <findViewById>(R.id.button0)
-        var buttonC = <findViewById>(R.id.buttonC)
+        var button1 = findViewById<Button>(R.id.button1)
+        var button2 = findViewById<Button>(R.id.button2)
+        var button3 = findViewById<Button>(R.id.button3)
+        var button4 = findViewById<Button>(R.id.button4)
+        var button5 = findViewById<Button>(R.id.button5)
+        var button6 = findViewById<Button>(R.id.button6)
+        var button7 = findViewById<Button>(R.id.button7)
+        var button8 = findViewById<Button>(R.id.button8)
+        var button9 = findViewById<Button>(R.id.button9)
+        var button0 = findViewById<Button>(R.id.button0)
+        var buttonC = findViewById<Button>(R.id.buttonC)
     }
 }
